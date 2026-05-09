@@ -1,16 +1,15 @@
-# 🫀 Heart Disease Prediction System using Machine Learning & MySQL
+🫀 Heart Disease Prediction System using Machine Learning & MySQL
 
-## Overview
+### Overview
 A Machine Learning project that predicts the risk of heart disease using clinical patient data. It applies supervised learning algorithms to analyze medical attributes and predict whether a patient is at risk.
 
----
+### 🎓 Academic Affiliation
+This project was developed as part of my academic coursework and research in the **Department of Computer Science & Engineering** at **Dhaka International University (DIU)**.
 
-## Objective
+### Objective
 To build a predictive system that helps identify the likelihood of heart disease using patient health parameters.
 
----
-
-## Tools & Technologies
+### Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -18,22 +17,16 @@ To build a predictive system that helps identify the likelihood of heart disease
 - MySQL
 - Git & GitHub
 
----
-
-## Dataset
+### Dataset
 - Source: Kaggle / UCI Heart Disease Dataset
 - Features: age, sex, chest pain type, blood pressure, cholesterol, etc.
 - Target: 0 = No Disease, 1 = Disease
 
----
-
-## Machine Learning Models
+### Machine Learning Models
 - Random Forest Classifier
 - Logistic Regression
 
----
-
-## Project Workflow
+### Project Workflow
 1. Load dataset (heart.csv)
 2. Data preprocessing & cleaning
 3. Feature selection
@@ -41,30 +34,23 @@ To build a predictive system that helps identify the likelihood of heart disease
 5. Model evaluation
 6. Store results in MySQL database
 
----
-
-## Features
+### Features
 - Data preprocessing and feature engineering
 - ML model training and comparison
 - Accuracy evaluation
 - MySQL database integration for storing results
 
----
-
-## Results
+### Results
 - Random Forest Accuracy: ~98%
 - Logistic Regression Accuracy: ~79%
 
----
-
-## How to Run
-
+### How to Run
 ```bash
 pip install -r requirements.txt
 python heart_prediction.py
+```
 
-
-Author
-
-Trisna Roy
+### Author
+**Trisna Rani Roy**
+*B.Sc. in CSE, Dhaka International University*
 Python | Java | HTML | CSS | SQL
