@@ -1,9 +1,9 @@
-🫀 Heart Disease Prediction System using Machine Learning & MySQL
+### Heart Disease Prediction System using Machine Learning & MySQL
 
 ### Overview
 A Machine Learning project that predicts the risk of heart disease using clinical patient data. It applies supervised learning algorithms to analyze medical attributes and predict whether a patient is at risk.
 
-### 🎓 Academic Affiliation
+### Academic Affiliation
 This project was developed as part of my academic coursework and research in the **Department of Computer Science & Engineering** at **Dhaka International University (DIU)**.
 
 ### Objective
